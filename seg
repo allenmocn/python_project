@@ -1,3 +1,8 @@
+#install jieba
+on windows： python -m pip install jieba3k
+
+
+
 #encoding=utf-8
 import jieba
 
